@@ -311,7 +311,7 @@ td {
 }
 
 @font-face {
-    font-family:'Telefon Black';src:url(../font/TelefonBlack.woff) format('woff'),url(../font/TelefonBlack.woff2) format('woff2');
+    font-family:'Telefon Black';src:url(../../font/TelefonBlack.woff) format('woff'),url(../../font/TelefonBlack.woff2) format('woff2');
 }
 
 body {
