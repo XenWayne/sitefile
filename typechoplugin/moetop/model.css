@@ -76,7 +76,7 @@
 /* 东方系列 */
 #reimu,#marisa,#flandre{
 	bottom:-0px;
-    right:-15px;
+    right:-20px;
     max-height:150px;
 }
 #reimu.animate,#marisa.animate,#flandre.animate {
