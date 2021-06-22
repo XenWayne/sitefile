@@ -9,7 +9,7 @@
 			<TextBlock FontSize="18" TextWrapping="Wrap" Margin="0,0,0,2" Foreground="#FF0000"
 				   Text="			Important:请先在左侧配置好您的游戏帐户.建议使用JAVA8.该版本仍在持续维护优化中,bug提交请见下文.该页面布局通过觅忆时光云MeCloud和jsdeliver热更新,请留意可能的公告." />
 			<TextBlock FontSize="15" TextWrapping="Wrap" Margin="0,10,0,10" Foreground="#55C5BB"
-				   Text="			Notice:受限于觅忆时光云的网络环境,在IPv4网络下我们无法获取到玩家的真实IP,故目前觅光之境LightZone仅支持IPv6网络登入.我们将尽快解决这个问题.值得庆幸的是,目前公众网络普遍接入了IPv6,且路由优化已达到可用标准.您可使用调试工具中的[IPv6_TEST]检查您的网络配置环境.望您早日接入下一代TCP/IP协议." />
+				   Text="			Notice:自V2.1版本起,我们开始支持IPv4/IPv6双栈登录,但我们建议您首选IPv6.值得庆幸的是,目前公众网络普遍接入了IPv6,且路由优化已达到可用标准.您可使用调试工具中的[IPv6_TEST]检查您的网络配置环境." />
 			<local:MyHint Margin="0,8,0,2" IsWarn="False"
 		           Text="开始游戏前,请阅读以下信息." />
 			<TextBlock TextWrapping="Wrap" Margin="0,0,0,2"
