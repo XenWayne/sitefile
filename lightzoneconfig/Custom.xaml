@@ -55,10 +55,7 @@
 					   EventData="https://lightzone.mevisual.top"/>
 				<local:MyButton Margin="10,0,10,0" Width="200" Height="35" ColorType="Highlight" HorizontalAlignment="Left" Padding="13,0,13,0"
 				       Text="访问LittleSkin皮肤站" EventType="打开网页" ToolTip="访问LittleSkin皮肤站"
-					   EventData="https://littleskin.cn/"/>
-				<local:MyButton Margin="10,0,10,0" Width="180" Height="35" ColorType="Highlight" HorizontalAlignment="Left" Padding="13,0,13,0"
-				       Text="查看更新日志" ToolTip="查看更新日志" EventType="打开文件" 
-					   EventData="{path}\更新日志.png" />		  
+					   EventData="https://littleskin.cn/"/>		  
 			</StackPanel>											   
     </StackPanel>    
 </local:MyCard>
