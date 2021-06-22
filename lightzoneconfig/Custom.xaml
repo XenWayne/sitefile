@@ -24,7 +24,6 @@
 						Text="5.为保证新登录用户帧数稳定,请尽量避免在出生点保护区域周围建筑." />
 			<TextBlock TextWrapping="Wrap" Margin="0,0,0,2"
 						Text="6.Project世界需要启用COC系列资源包支持,默认没有启用." />
-<<<<<<< HEAD
 			<TextBlock TextWrapping="Wrap" Margin="0,0,0,2" Foreground="#FF0000"
 						Text="登录/绑定邮箱指令一览:" />
 									<TextBlock TextWrapping="Wrap" Margin="0,0,0,2" Foreground="#FF22EE"
@@ -42,33 +41,6 @@
 									<TextBlock TextWrapping="Wrap" Margin="0,0,0,2" Foreground="#FF22EE"
 												Text="用邮箱收到的验证码重置密码			/bindemail re 验证码 新密码" />
 
-=======
-			<TextBlock TextWrapping="Wrap" Margin="0,0,0,2" Foreground="#66CCFF"
-						Text="  登录/绑定邮箱指令一览:
-						      
-						 
-								登录
-									/login 密码
-									/l 密码
-								注册密码
-								  /register 密码 重复密码
-								  /reg 密码 重复密码
-								修改密码
-								  /changepassword 旧密码 新密码 重复新密码
-								  /changepw 旧密码 新密码 重复新密码
-								绑定邮箱
-								  /bindemail set 邮箱
-								  /bdmail set 邮箱
-								用邮箱收到的验证码完成绑定
-								  /bindemail verify 验证码
-								  /bdmail verify 验证码
-								忘记密码，请求服务器给自己绑定的邮箱发送重置密码的验证码
-								  /resetpassword forget
-								  /repw forget
-								用邮箱收到的验证码重置密码
-								  /bindemail re 验证码 新密码
-								  /bdmail re 验证码 新密码" />
->>>>>>> fdbf4f16caee274781137ac3199655fa142f4e48
 						
 			<TextBlock TextWrapping="Wrap" Margin="5,10,0,10" 
 						Text="LightZoneV2.0 ©MeVisual | Launcher PCL2 | Modified by XenWayne" />
