@@ -97,7 +97,7 @@
                    Text="刷新启动器页面" EventType="刷新主页"/>			
             <local:MyButton Margin="0,0,10,0" Width="170" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
                    Text="查看最近一次的启动日志" ToolTip="若游戏崩溃,请将此文件内容提交管理组." EventType="打开文件" 
-				   EventData="{path}\.minecraft\versions\LightZoneV2.0_1.12.2_Forge2855\logs\latest.log" />
+				   EventData="{path}\.minecraft\versions\LightZoneV2.1_1.12.2_Forge2855\logs\latest.log" />
 			<local:MyButton Margin="0,0,10,0" Width="100" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
 			       Text="IPv6_TEST" EventType="打开网页" ToolTip="测试IPv6网络环境"
 				   EventData="http://www.test-ipv6.com/"/>
