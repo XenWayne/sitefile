@@ -43,7 +43,7 @@
 
 						
 			<TextBlock TextWrapping="Wrap" Margin="5,10,0,10" 
-						Text="LightZoneV2.0 ©MeVisual | Launcher PCL2 | Modified by XenWayne" />
+						Text="LightZoneV2.1 ©MeVisual | Launcher PCL2 | Modified by XenWayne" />
 						
 			<TextBlock TextWrapping="Wrap" Margin="0,0,0,2"
 						Text="“Minecraft”以及“我的世界”为Mojang Synergies AB的商标，LightZone与Mojang以及Microsoft没有从属关系。" />	
