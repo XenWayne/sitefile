@@ -178,13 +178,15 @@
     font-family: 'Telefon Black',Sans-Serif;
     font-size: 48px;
     font-weight: 600;
-    color: #000;
+    color: #fff;
+	text-shadow:3px -1px 5px #ff641a, -2px 3px 5px #007eff;
 }
 
 .site-description {
     font-size: 36px;
     font-weight: 400;
-    color: #000;
+    color: #fff;
+	text-shadow:3px -1px 5px #ff641a, -2px 3px 5px #007eff;
 }
 
 @media (max-width:991px) {
