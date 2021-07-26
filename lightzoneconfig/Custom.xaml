@@ -1,4 +1,4 @@
-<!-- LightZone_PCL2页面配置文件 V1.9 Edit by @XenWayne https://xenwayne.top
+<!-- LightZone_PCL2页面配置文件 V2.2 Edit by @XenWayne https://xenwayne.top
 -->
 
 <local:MyCard Title="欢迎!" Margin="0,0,0,15">
@@ -11,7 +11,7 @@
 			<TextBlock FontSize="15" TextWrapping="Wrap" Margin="0,10,0,10" Foreground="#55C5BB"
 				   Text="			Notice:自V2.1版本起,我们开始支持IPv4/IPv6双栈登录,但我们建议您首选IPv6.值得庆幸的是,目前公众网络普遍接入了IPv6,且路由优化已达到可用标准.您可使用调试工具中的[IPv6_TEST]检查您的网络配置环境." />
 			<TextBlock FontSize="15" TextWrapping="Wrap" Margin="0,10,0,10" Foreground="#55C5BB"
-				   Text="			New:"客户端已更新至V2.2,旧版本已不可用,请前往群文件或觅忆时光云下载新版客户端.本次更新:雕刻工艺MOD/觅忆新视觉形象/登录逻辑优化" />
+				   Text="			New:客户端已更新至V2.2,旧版本已不可用,请前往群文件或觅忆时光云下载新版客户端.本次更新:雕刻工艺MOD/觅忆新视觉形象/登录逻辑优化" />
 			<local:MyHint Margin="0,8,0,2" IsWarn="False"
 		           Text="开始游戏前,请阅读以下信息." />
 			<TextBlock TextWrapping="Wrap" Margin="0,0,0,2"
