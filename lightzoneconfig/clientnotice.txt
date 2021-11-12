@@ -1,4 +1,0 @@
-&bLightZoneV3.0在线公告
-当前时间:%realtimeyear%/%realtimemonth%/%realtimeday% | %realtimehour%:%realtimeminute%
-当前版本仍在beta阶段
-请踊跃向管理组反馈问题！
