@@ -7,7 +7,7 @@
 		<local:MyHint Margin="0,8,0,2" IsWarn="False"
 		           Text="重要" />				   	
 			<TextBlock FontSize="18" TextWrapping="Wrap" Margin="0,0,0,2" Foreground="#FF0000"
-				   Text="			Important:请先在左侧配置好您的游戏帐户.建议使用JAVA11或以上版本.该版本仍在持续维护优化中,bug提交请见下文.该页面布局通过觅忆时光云MeCloud和jsdeliver热更新,请留意可能的公告." />
+				   Text="			Important:请先在左侧配置好您的游戏帐户.建议使用JAVA11版本.该版本仍在持续维护优化中,bug提交请见下文.该页面布局通过觅忆时光云MeCloud和jsdeliver热更新,请留意可能的公告." />
 			<TextBlock FontSize="15" TextWrapping="Wrap" Margin="0,10,0,10" Foreground="#55C5BB"
 				   Text="			Notice:自V2.1版本起,我们开始支持IPv4/IPv6双栈登录,但我们建议您首选IPv6.值得庆幸的是,目前公众网络普遍接入了IPv6,且路由优化已达到可用标准.您可使用调试工具中的[IPv6_TEST]检查您的网络配置环境." />
 			<TextBlock FontSize="15" TextWrapping="Wrap" Margin="0,10,0,10" Foreground="#FF0000"
