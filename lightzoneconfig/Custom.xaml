@@ -24,6 +24,8 @@
 						Text="3.登录后若未出生在出生点,请输入/spawn或想办法neng死自己= V =." />
 			<TextBlock TextWrapping="Wrap" Margin="0,0,0,2"
 						Text="4.为保证新登录用户帧数稳定,请尽量避免在出生点保护区域周围建筑." />
+			<TextBlock TextWrapping="Wrap" Margin="0,0,0,2"
+						Text="5.创世神选区可视化与光影不兼容." />
 			<TextBlock TextWrapping="Wrap" Margin="0,0,0,2" Foreground="#FF0000"
 						Text="登录/绑定邮箱指令一览:" />
 									<TextBlock TextWrapping="Wrap" Margin="0,0,0,2" Foreground="#FF22EE"
