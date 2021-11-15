@@ -77,19 +77,17 @@
 	    <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
 	           Text="         1.你的MinecraftID(如果你拥有正版,则应填写你的正版ID)" />
 	    <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
-	   	   Text="         2.一张LightZone客户端启动后首页的截图(我们需要您的UUID用于白名单验证)" />
+		   Text="         2.您的常用邮箱地址" />
 	    <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
-		   Text="         3.您的常用邮箱地址" />
+		   Text="         3.你在Minecraft圈子所擅长的领域" />
 	    <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
-		   Text="         4.你在Minecraft圈子所擅长的领域" />
+		   Text="         4.一段简单的自我介绍" />
 	    <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
-		   Text="         5.一段简单的自我介绍" />
+		   Text="         5.从何处得知觅光之境LightZone" />
 	    <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
-		   Text="         6.从何处得知觅光之境LightZone" />
+		   Text="         6.[可选]您的推荐人" />
 	    <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
-		   Text="         7.[可选]您的推荐人" />
-	    <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
-		   Text="         8.[可选]您的个人主页，或开放的社交网站个人页" />		   
+		   Text="         7.[可选]您的个人主页，或开放的社交网站个人页" />		   
     </StackPanel>
 </local:MyCard>
 
