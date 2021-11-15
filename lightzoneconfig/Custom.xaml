@@ -69,23 +69,25 @@
         <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
                    Text="        很高兴你有加入到觅光之境LightZone沙盒世界的意愿,我们的服务器没有权限管理,因此,筛选出素质低的人就显得尤为重要.要申请白名单,你只需发一封邮件至:" />
 	    <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#1E90FF" FontSize="15"
-	              Text="         xenwayne@mevisual.top" />
-		<TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
-		           Text="        内容应包括:" />
+	           Text="         xenwayne@mevisual.top" />
 	    <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
-	               Text="         1.你的MinecraftID(如果你拥有正版,则应填写你的正版ID)" />
-		<TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
-		           Text="         2.您的常用邮箱地址" />
+		   Text="        内容应包括:" />
 	    <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
-				   Text="         3.你在Minecraft圈子所擅长的领域" />
+	           Text="         1.你的MinecraftID(如果你拥有正版,则应填写你的正版ID)" />
 	    <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
-				   Text="         4.一段简单的自我介绍" />
-		<TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
-				   Text="         5.从何处得知觅光之境LightZone" />
-		<TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
-				   Text="         6.[可选]您的推荐人" />
-		<TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
-				   Text="         7.[可选]您的个人主页，或开放的社交网站个人页" />		   
+	   	   Text="         2.一张LightZone客户端启动后首页的截图(我们需要您的UUID用于白名单验证)" />
+	    <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+		   Text="         3.您的常用邮箱地址" />
+	    <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+		   Text="         4.你在Minecraft圈子所擅长的领域" />
+	    <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+		   Text="         5.一段简单的自我介绍" />
+	    <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+		   Text="         6.从何处得知觅光之境LightZone" />
+	    <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+		   Text="         7.[可选]您的推荐人" />
+	    <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+		   Text="         8.[可选]您的个人主页，或开放的社交网站个人页" />		   
     </StackPanel>
 </local:MyCard>
 
