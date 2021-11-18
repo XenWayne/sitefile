@@ -17,7 +17,7 @@
 	    		<TextBlock FontSize="15" TextWrapping="Wrap" Margin="0,10,0,10" Foreground="#FF0000"
 				   Text="			温馨提示:正版用户请及时登录minecraft.net迁移您的Mojang账号至微软账号" />
 			<TextBlock FontSize="15" TextWrapping="Wrap" Margin="0,10,0,10" Foreground="#00CED1"
-			   	   Text="			AMD显卡用户请将BetterFoliage模组中的[NVIDIA显卡]项关闭.请勿打开BetterFoliage设置项中的[圆木]项,该选项与东方女仆模组存在冲突." />
+			   	   Text="			目前版本下暂不推荐BetterFoliage模组." />
 			<local:MyHint Margin="0,8,0,2" IsWarn="False"
 		           Text="开始游戏前,请阅读以下信息." />
 			<TextBlock TextWrapping="Wrap" Margin="0,0,0,2"
