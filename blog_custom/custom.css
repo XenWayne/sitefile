@@ -67,7 +67,6 @@
     backdrop-filter: saturate(100%) blur(5px);
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
-    color: #000
 }
 
 #footer,
@@ -75,7 +74,42 @@
     background: hsla(0, 0%, 100%, .15)
 }
 
-#footer #footer-wrap,
-#footer #footer-wrap a {
-    color: #333
+/*!Headerwave Start*/
+:root {
+    --wave-color1: rgba(255,255,255,0.7);
+    --wave-color2: rgba(255,255,255,0.5);
+    --wave-color3: rgba(255,255,255,0.3);
+    --wave-color4: #fff;
 }
+
+.waves{
+    position: absolute;
+    width: 100%;
+    height: 30px;
+    min-height: 60px;
+    max-height: 100px;
+    bottom: 0px;
+}
+.parallax > use:nth-child(1) {
+    animation-delay: -2s;
+    animation-duration: 7s;
+}
+.parallax > use {
+    animation: move-forever 25s cubic-bezier(.55,.5,.45,.5)infinite;
+}
+@keyframes move-forever{
+    0% {
+        transform: translate3d(-90px,0,0);
+    }
+    100% {
+        transform: translate3d(85px,0,0);
+    }
+}
+/* 暗色适配部分 */
+[data-theme=dark] {
+    --wave-color1: rgba(20,20,20,0.7);
+    --wave-color2: rgba(20,20,20,0.5);
+    --wave-color3: rgba(20,20,20,0.3);
+    --wave-color4: #00000022;
+}
+/*!Headerwave End*/
