@@ -1,23 +1,3 @@
-//!header 波浪样式 START
-window.onload = function() {
-    document.getElementById("page-header").innerHTML += `
-    <div style="width: 100%; position: absolute;bottom: 0;">
-        <svg class="waves" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"
-            viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
-            <defs>
-                <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z"></path>
-            </defs>
-            <g class="parallax">
-                <use xlink:href="#gentle-wave" x="48" y="0" fill="var(--wave-color1)"></use>
-                <use xlink:href="#gentle-wave" x="48" y="5" fill="var(--wave-color2)"></use>
-                <use xlink:href="#gentle-wave" x="48" y="7" fill="var(--wave-color3)"></use>
-                <use xlink:href="#gentle-wave" x="48" y="12" fill="var(--wave-color4)"></use>
-            </g>
-        </svg>
-    </div>`;
-  }
-//!header 波浪样式 END
-
 // !下雪样式 START
 /* 控制下雪 */
 function snowFall(snow) {
