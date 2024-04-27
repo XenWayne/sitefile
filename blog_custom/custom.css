@@ -74,6 +74,10 @@
     background: hsla(0, 0%, 100%, .15)
 }
 
+#footer * {
+    color: var(--font-color);
+}
+
 /*!Headerwave Start*/
 :root {
     --wave-color1: rgba(255,255,255,0.7);
