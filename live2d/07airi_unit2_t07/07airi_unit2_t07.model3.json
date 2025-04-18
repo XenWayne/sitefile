@@ -1,0 +1,33 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "07airi_unit2_t07.moc3",
+		"Textures": [
+			"07airi_unit2_t07.2048/texture_00.png"
+		],
+		"Physics": "07airi_unit2_t07.physics3.json",
+		"Pose": "07airi_unit2_t07.pose3.json",
+		"Motions": {
+			"Idle": [
+				{
+					"File": "motions/w-cool06-pose.motion3.json",
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}
